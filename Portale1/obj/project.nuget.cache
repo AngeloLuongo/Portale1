@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1m+rYkZ1lGh9zGfl5PMs83T6R0kfER954NiS9fiYp6DTPDomhU2lU91S8V9Exeuf1o94cwL7dzLS1ER9Y9gADw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\langeloa\\Documents\\Progetti\\GIT\\Portale1\\Portale1\\Portale1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\langeloa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
